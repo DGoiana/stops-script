@@ -18,3 +18,8 @@ That token is then used to request information from another page where real-time
 ```
 python3 buses.py
 ```
+
+## iOS Shortcuts
+
+This script can be integrated with iOS shortcuts via SSH connection.
+It needs additional files, such as a <code>.sh</code> file to create a virtual environment and a <code>requirements.txt</code>. [to add later]
